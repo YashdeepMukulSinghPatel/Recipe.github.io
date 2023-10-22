@@ -1,5 +1,5 @@
 # LIVE DEMO :~>
-[RecipeFinderApp/](/)
+[RecipeFinderApp/](https://yashdeepmukulsinghpatel.github.io/Recipe.github.io/)
 ---
 # Recipe Finder App :-
 This project is a web application that utilizes the power of vanilla JavaScript to provide a seamless user experience. The main feature of the app is its ability to search for food recipes using the Themealdb API.
